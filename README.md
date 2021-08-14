@@ -103,4 +103,5 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 &nbsp;&nbsp;a. *Does your disability require accommodation in the workplace?*\
 &nbsp;&nbsp;b. *Have you disclosed to the company that you are disabled?*\
 &nbsp;&nbsp;c. *Have you requested accommodation in the workplace?*\
-&nbsp;&nbsp;d. *Were you greated accommodation?*
+&nbsp;&nbsp;d. *Were you granted accommodation?*\
+&nbsp;&nbsp;e. *Was that accommodation in the form of remote work?*
