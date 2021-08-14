@@ -40,21 +40,19 @@ Designed and written with ❤️ by Cher Scarlett August 2021
   
 6. **Did you receive a signing RSU grant?** *(required)*\
 &nbsp;&nbsp;a. **What was the signing RSU grant you received when you joined the company?** *(required if 6 is yes, if 6 is no, skip)*\
-&nbsp;&nbsp;&nbsp;&nbsp;*Include any relocation stipends.*
-&nbsp;&nbsp;&nbsp;&nbsp;*Do NOT include RSU grants.*
-&nbsp;&nbsp;&nbsp;&nbsp;*If you left and re-joined, provide your most recent signing bonus.*
-&nbsp;&nbsp;&nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only.*
+&nbsp;&nbsp;&nbsp;&nbsp;*If you left and re-joined, provide your most recent signing RSU grant.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only AT THE TIME OF GRANTING.*
   
 7. **Did you relocate?**\
 &nbsp;&nbsp;a. **Did the company pay for your relocation?** *(required if 7 is yes, if 7 is no, skip)*
   
 8. **Where is your salary originated from?** *(required)*\
 &nbsp;&nbsp;*Your location is imperative for normalizing compared wages in a specific area, and across the company.*\
-&nbsp;&nbsp;a. *Within [COMPANY'S ORIGIN COUNTRY]*\
+&nbsp;&nbsp;a. **Within [COMPANY'S ORIGIN COUNTRY]**\
 &nbsp;&nbsp;&nbsp;&nbsp;i. *State\Province selection* *(optional)*\
 &nbsp;&nbsp;&nbsp;&nbsp;ii. *City selection* *(optional, use hubs or major metro areas)*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Choose the city closest to you*\
-&nbsp;&nbsp;b. *External to [COMPANY'S ORIGIN COUNTRY]*\
+&nbsp;&nbsp;b. **External to [COMPANY'S ORIGIN COUNTRY]**\
 &nbsp;&nbsp;&nbsp;&nbsp;i. **Country selection**\
 &nbsp;&nbsp;&nbsp;&nbsp;i. **State\Province selection** *(optional)*\
 &nbsp;&nbsp;&nbsp;&nbsp;ii. **City selection** *(optional, use hubs or major metro areas)*\
