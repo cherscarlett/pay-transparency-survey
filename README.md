@@ -10,7 +10,7 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 1. **What is your current or most recent base annual salary?** *(required)*\
 &nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only.*\
 &nbsp;&nbsp;*Do NOT include any RSU vests, cash bonuses, or commissions.*\
-&nbsp;&nbsp;*If you are paid hourly, please convert to annual salary by multiplying your hourly wage by 40, and again by 52.*
+&nbsp;&nbsp;*If you are paid hourly, please convert to annual salary by multiplying your hourly wage by 40, and again by 52. (40 hours a week, 52 weeks a year)* 
 
 2. **Do you receive a portion of your income in the form of commissions?** *(required)*\
 &nbsp;&nbsp;*A commission is a fee paid based on a percentage of sales made by an employee*\
