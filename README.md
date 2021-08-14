@@ -4,7 +4,7 @@ A pay transparency survey to help enable fair and equitable wages via employee o
 Designed and written with ❤️ by Cher Scarlett August 2021
 
 *I suggest password protecting your survey to protect the integrity of the data collected. I do not suggest hosting it on your company's servers.*\ 
-*It can also be helpful to gather former employee data from folks who left the company within the most recent year.*\
+*It can also be helpful to gather former employee data from folks who left the company within the most recent year.*
 
 1. **What is your current or most recent base annual salary?** *(required)*\
 &nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only.*\
@@ -47,7 +47,7 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 &nbsp;&nbsp;&nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only.*
   
 6. **Did you relocate?**\
-&nbsp;&nbsp;a. **Did the company pay for your relocation?** *(required if 5 is yes, if 5 is no, skip)*\
+&nbsp;&nbsp;a. **Did the company pay for your relocation?** *(required if 5 is yes, if 5 is no, skip)*
   
 7. **Where is your salary originated from?** *(required)*\
 &nbsp;&nbsp;*Your location is imperative for normalizing compared wages in a specific area, and across the company.*\
@@ -62,7 +62,7 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Choose the city closest to you*
       
 8. **Is your role permanently remote?**\
-&nbsp;&nbsp;*Do not answer yes if you have an ADA accommodation or other exception that allows you to work remotely despite your role typically being required to be in office, including because of the COVID-19 pandemic.*\
+&nbsp;&nbsp;*Do not answer yes if you have an ADA accommodation or other exception that allows you to work remotely despite your role typically being required to be in office, including because of the COVID-19 pandemic.*
 
 9. **What is your role?**\
 &nbsp;&nbsp;*(I recommend having a list of roles to select from to control the integry of the field)*
@@ -75,20 +75,20 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 
 12. **Do you have one or more college degrees?**\
 &nbsp;&nbsp;a.**What types of degrees do you have?** *(This should be multi-select with all available degree types, including professional certificates)*\
-&nbsp;&nbsp;b.**How many years did you work in your field while you were seeking any of your degrees?**\
+&nbsp;&nbsp;b.**How many years did you work in your field while you were seeking any of your degrees?**
 
 13. **How many years of relevant job experience do you have?**\
-&nbsp;&nbsp;*Do not include years you worked while simultaneously seeking a degree which were captured in question 12.*\
+&nbsp;&nbsp;*Do not include years you worked while simultaneously seeking a degree which were captured in question 12.*
 
 14. **Is your gender identity the same as the sex you were assigned at birth?**\
-&nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
+&nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*
 
 15. **Is your gender part of an under-represented or minoritized group?**\
 &nbsp;&nbsp;*If you are unsure if your gender is under-represented, please see [LINK TO COMPANY OR INDUSTRY DIVERSITY DATA]. If your gender is not represented by the listed majority, your gender is considered under-represented.*\
 &nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
-&nbsp;&nbsp;a.**What is your gender?**
+&nbsp;&nbsp;a.**What is your gender?**\
 &nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
-&nbsp;&nbsp;&nbsp;&nbsp;*{I recommend having options of Non-Binary, Female, and Other that allows the user to type in their own gender)*\
+&nbsp;&nbsp;&nbsp;&nbsp;*{I recommend having options of Non-Binary, Female, and Other that allows the user to type in their own gender)*
 
 16. **Is your race part of an under-represented or minoritized group?**\
 &nbsp;&nbsp;*If you are unsure if your race is under-represented, please see [LINK TO COMPANY OR INDUSTRY DIVERSITY DATA]. If your race is not represented by the listed majority, your race is considered under-represented.*\
