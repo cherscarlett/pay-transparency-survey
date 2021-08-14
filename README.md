@@ -3,7 +3,8 @@ A pay transparency survey to help enable fair and equitable wages via employee o
 
 Designed and written with ❤️ by Cher Scarlett August 2021
 
-*I suggest password protecting your survey to protect the integrity of the data collected. I do not suggest hosting it on your company's servers.*\ 
+*I suggest password protecting your survey to protect the integrity of the data collected. I do not suggest hosting it on your company's servers.*
+
 *It can also be helpful to gather former employee data from folks who left the company within the most recent year.*
 
 1. **What is your current or most recent base annual salary?** *(required)*\
