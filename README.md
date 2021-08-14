@@ -64,7 +64,7 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 &nbsp;&nbsp;*Do not answer yes if you have an ADA accommodation or other exception that allows you to work remotely despite your role typically being required to be in office, including because of the COVID-19 pandemic.*
 
 10. **What is your role?**\
-&nbsp;&nbsp;*(I recommend having a list of roles to select from to control the integry of the field)*
+&nbsp;&nbsp;*(I recommend having a list of roles to select from to control the integrity of the field)*
 
 11. **What team is your role on?**\
 &nbsp;&nbsp;*(I recommend having a list of teams, and be as broad/vague as possible. If there is a disparity between men and non-men in the company, it may be easy to identify respondents.)*
