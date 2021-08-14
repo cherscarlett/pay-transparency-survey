@@ -95,11 +95,11 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 &nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
 &nbsp;&nbsp;a. **What is your race?**
 &nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
-&nbsp;&nbsp;&nbsp;&nbsp;*{I recommend having options of Black, Indigenous, Hispanic or Latinx, Asian, MENA, and Other that allows the user to type in their own race)*\
+&nbsp;&nbsp;&nbsp;&nbsp;*(I recommend having options of Black, Indigenous, Hispanic or Latinx, Asian, MENA, and Other that allows the user to type in their own race)*
 
 17. **Are you disabled?**\
 &nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
-&nbsp;&nbsp;a. *Does your disability require accommodation in the workplace?*
-&nbsp;&nbsp;b. *Have you disclosed to the company that you are disabled?*
-&nbsp;&nbsp;c. *Have you requested accommodation in the workplace?*
+&nbsp;&nbsp;a. *Does your disability require accommodation in the workplace?*\
+&nbsp;&nbsp;b. *Have you disclosed to the company that you are disabled?*\
+&nbsp;&nbsp;c. *Have you requested accommodation in the workplace?*\
 &nbsp;&nbsp;d. *Were you greated accommodation?*
