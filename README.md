@@ -35,14 +35,14 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 
 5. **Did you receive a signing bonus?** *(required)*\
 &nbsp;&nbsp;a. **What was the signing bonus you received when you joined the company?** *(required if 5 is yes, if 5 is no, skip)*\
-&nbsp;&nbsp;&nbsp;&nbsp;*Include any relocation stipends.*
-&nbsp;&nbsp;&nbsp;&nbsp;*Do NOT include RSU grants.*
-&nbsp;&nbsp;&nbsp;&nbsp;*If you left and re-joined, provide your most recent signing bonus.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Include any relocation stipends.*\
+&nbsp;&nbsp;&nbsp;&nbsp;*Do NOT include RSU grants.*\
+&nbsp;&nbsp;&nbsp;&nbsp;*If you left and re-joined, provide your most recent signing bonus.*\
 &nbsp;&nbsp;&nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only.*
   
 6. **Did you receive a signing RSU grant?** *(if 3c was an initial grant, skip, if not, required)*\
 &nbsp;&nbsp;a. **What was the signing RSU grant you received when you joined the company?** *(required if 6 is yes, if 6 is no, skip)*\
-&nbsp;&nbsp;&nbsp;&nbsp;*If you left and re-joined, provide your most recent signing RSU grant.*
+&nbsp;&nbsp;&nbsp;&nbsp;*If you left and re-joined, provide your most recent signing RSU grant.*\
 &nbsp;&nbsp;&nbsp;&nbsp;*Enter the numerical cash value in [YOUR CURRENCY] only AT THE TIME OF GRANTING.*
   
 7. **Did you relocate?**\
