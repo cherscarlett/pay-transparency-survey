@@ -85,14 +85,14 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 16. **Is your gender part of an under-represented or minoritized group?**\
 &nbsp;&nbsp;*If you are unsure if your gender is under-represented, please see [LINK TO COMPANY OR INDUSTRY DIVERSITY DATA]. If your gender is not represented by the listed majority, your gender is considered under-represented.*\
 &nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
-&nbsp;&nbsp;a.**What is your gender?**\
+&nbsp;&nbsp;a.**What is your gender?** *(optional, but only show this question if 16 is true)*\
 &nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
 &nbsp;&nbsp;&nbsp;&nbsp;*{I recommend having options of Non-Binary, Female, and Other that allows the user to type in their own gender)*
 
 17. **Is your race part of an under-represented or minoritized group?**\
 &nbsp;&nbsp;*If you are unsure if your race is under-represented, please see [LINK TO COMPANY OR INDUSTRY DIVERSITY DATA]. If your race is not represented by the listed majority, your race is considered under-represented.*\
 &nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
-&nbsp;&nbsp;a. **What is your race?**
+&nbsp;&nbsp;a. **What is your race?***(optional, but only show this question if 17 is true)*\
 &nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*\
 &nbsp;&nbsp;&nbsp;&nbsp;*(I recommend having options of Black, Indigenous, Hispanic or Latinx, Asian, MENA, and Other that allows the user to type in their own race)*
 
