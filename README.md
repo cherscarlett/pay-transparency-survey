@@ -77,7 +77,7 @@ Designed and written with ❤️ by Cher Scarlett August 2021
 &nbsp;&nbsp;b.**How many years did you work in your field while you were seeking any of your degrees?**
 
 14. **How many years of relevant job experience do you have?**\
-&nbsp;&nbsp;*Do not include years you worked while simultaneously seeking a degree which were captured in question 12.*
+&nbsp;&nbsp;*Do not include years you worked while simultaneously seeking a degree which were captured in question 13.*
 
 15. **Is your gender identity the same as the sex you were assigned at birth?**\
 &nbsp;&nbsp;&nbsp;&nbsp;*Self-identifying is not required, but helps identify possible pay gaps.*
